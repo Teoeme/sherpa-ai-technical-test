@@ -1,0 +1,23 @@
+{
+  "name": "sherpa-ai-technical-test",
+  "version": "1.0.0",
+  "description": "```  Postulante: Mancinelli Mateo Atilio  Puesto: Developer Jr/Ssr ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts",
+    "build": "tsc --outDir dist",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.0.13",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "playwright": "^1.54.1"
+  }
+}
