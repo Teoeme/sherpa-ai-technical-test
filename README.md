@@ -25,7 +25,7 @@ Este proyecto implementa un web scraper automatizado que:
 - **TypeScript** - Lenguaje principal
 - **Playwright** - Automatización web
 
-## 📦 Instalación y Ejecución
+## Instalación y Ejecución
 
 ### 1. Instalar dependencias:
 ```bash
