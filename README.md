@@ -1,12 +1,12 @@
 # Sherpa AI - Prueba técnica
-#### Este repositorio contiene el código fuente de la solución a la prueba técnica para el puesto de desarrollador Semi-señor para la empresa Sherpa AI, especializados en el desarrollo de automatizaciónes y soluciones potenciadas por inteligencia artificial para productores asesores de seguros y brokers.
+##### Este repositorio contiene el código fuente de la solución a la prueba técnica para el puesto de desarrollador Semi-señor para la empresa Sherpa AI, especializados en el desarrollo de automatizaciónes y soluciones potenciadas por inteligencia artificial para productores asesores de seguros y brokers.
 
 ```
  Postulante: Mancinelli Mateo Atilio
  Puesto: Developer Jr/Ssr
 ```
 
-### [Aquí el enunciado de la prueba técnica](/enunciado.md)
+#### [Aquí](/enunciado.md) el enunciado de la prueba técnica
 
 ---
 
